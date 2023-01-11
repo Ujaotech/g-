@@ -1,1 +1,1 @@
-Tanzania school communications platform
+a DIGITAL EDUCATION INITIATIVE RE IMAGINED FOR KENYA
