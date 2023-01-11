@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754464630058",
+    "project_id": "tahidi-79f8c",
+    "storage_bucket": "tahidi-79f8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754464630058:android:3b2bdeb9b8239f9f132a53",
+        "android_client_info": {
+          "package_name": "com.Ujaotechnologies.gtahidi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754464630058-ughg8aujdvgt8pj39veivgtqtbv3va2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb61LMjIthT88uwQt-NNt4cZWLDO0q2W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754464630058-ughg8aujdvgt8pj39veivgtqtbv3va2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
